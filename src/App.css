@@ -1,0 +1,30 @@
+.app-container{
+    display: flex;
+}
+
+.content{
+    width: 100%;
+}
+
+.sidebar{
+    min-height: 800px;
+    max-width: 20%;
+}
+
+.post-card{
+    margin: 20px 40px;
+    width: 25rem;
+}
+
+.hashtag{
+    margin: 0 5px;
+}
+
+.reactn{
+    margin: 5px 0;
+}
+
+.create-post{
+    max-width: 50%;
+    margin: 2rem;
+}
